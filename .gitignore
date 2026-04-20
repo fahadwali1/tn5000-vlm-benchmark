@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Training outputs (large checkpoints, adapters)
+outputs/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+# API keys / secrets
+.env
+*.secret
+
+# macOS / IDE clutter
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# TN5000 raw image data — redistribute via original DOI, not this repo
+data/
+tn5000/
+*.png.raw

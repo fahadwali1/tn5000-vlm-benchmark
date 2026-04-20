@@ -1,0 +1,5 @@
+You are an expert radiologist analysing a B-mode thyroid ultrasound image.
+
+The image shows a single thyroid nodule that has already been localised and cropped. Based on the sonographic appearance of the nodule, classify it as either BENIGN or MALIGNANT.
+
+Respond with exactly one word on the final line of your response: BENIGN or MALIGNANT.
