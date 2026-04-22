@@ -59,7 +59,8 @@ All three tiers are evaluated on the same 1,000-image held-out test set (731 mal
 ## Dataset
 
 The TN5000 dataset is publicly available:
-- **DOI:** [10.6084/m9.figshare.27962824](https://doi.org/10.6084/m9.figshare.27962824)
+- **Figshare:** [https://figshare.com/s/cb6a67f17c04b29e7edd19](https://figshare.com/s/cb6a67f17c04b29e7edd19)
+- **Dataset GitHub (Qingyanyichen):** [https://github.com/Qingyanyichen/TN5000-2025](https://github.com/Qingyanyichen/TN5000-2025)
 - **Citation:** Zhang, H. et al. TN5000: An Ultrasound Image Dataset for Thyroid Nodule Detection and Classification. *Sci. Data* **12**, 1437 (2025). PMID: 40819171.
 
 Follow the authors' recommended partition: 3,500 training / 500 validation / 1,000 test.
